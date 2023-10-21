@@ -1,15 +1,16 @@
 ---
+layout: archive
 permalink: /publications/
 title: Publications
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# 2024
 
-{% include base_path %}
+### 3D-ADAP: Advancing Object Detection through 3D-Aware Placement Augmentation
+_Proceedings of the AAAI conference on Artificial Intelligence, AAAI 2024 (under review)_
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# 2023
+
+### Exploring Attribute Variations in Style-based GANs using Diffusion Models
+_NeurIPS 2023 Diffusion Workshop Proceedings, NeurIPS 2023 (under review)_
