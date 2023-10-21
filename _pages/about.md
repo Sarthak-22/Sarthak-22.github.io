@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an MS ECE student at the University of California Los Angeles (UCLA) in the Department of Electrical and Computer Engineering. I focus on learning and applying cutting-edge techniques and methods in the field of artificial intelligence and image processing. I have a strong academic background in my field of interest, having graduated from the Indian Institute of Technology, Madras (IIT Madras).
+I am a first-year M.S. student in Electrical and Computer Engineering (ECE) at University of California Los Angeles working. I obtained my Bachelors degree in Electrical Engineering at the Indian Institute of Technology (IIT) Madras in India.
 
-I am passionate about exploring and solving deep learning and imaging-based problems and their applications in day-to-day life. I have worked as a research assistant in two prestigious labs, one at IIT Madras and one at the University of Wisconsin-Madison. As a result, I have gained valuable skills and experience in computer vision and image processing. I am actively looking for Summer 2024 Internships that will allow me to further develop and showcase my skills and competencies in this domain.
+My research interest broadly lie within the domain of Computer Vision and Imaging. The broad sub-topics which align with my experience are Generative methods, Diffusion Models, 3D Vision, Stereo Depth estimation and Image Segmentation. I am keen to explore the fields of domain adaptation, multi-modal learning, vision-language methods and designing intelligent systems for ADAS.
 
-_**Actively looking for Summer 2024 internship roles**_
+
+
+_**Actively looking for Summer 2024 internship roles in the areas of Software Engineering, Machine Learning and Applied Sciences**_
