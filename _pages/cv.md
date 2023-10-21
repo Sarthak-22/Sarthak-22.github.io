@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<iframe src="/files/Sarthak_Vora_Resume.pdf" height="700" width="850" style="border:none;"></iframe>
+
 {% include base_path %}
 
 Education
