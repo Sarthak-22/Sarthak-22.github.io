@@ -4,6 +4,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+
+
 ## 1. **Road Scene Completion with Geometry-Aware 3D Vehicle Placement** 
    * List item two
    * List item three
@@ -22,7 +24,7 @@ author_profile: true
   * List item four
 
   
-### 4. **Model Pruning: Lottery Ticket Hypothesis** 
+## 4. **Model Pruning: Lottery Ticket Hypothesis** 
   *	Trained a lightweight model M1 and Resnet18 on CIFAR-10 to perform model pruning experiments in PyTorch.
   *	Observed that M1 is 40% sparse & Resnet18 is only 20% sparse using the L1Unstructured method of pruning. 
   *	Performed iterative pruning on models with 40-80% sparsity for faster training convergence.
