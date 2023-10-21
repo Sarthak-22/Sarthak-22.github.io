@@ -1,6 +1,7 @@
 ---
 permalink: /
-excerpt: "Sarthak's Homepage"
+excerpt: "About me"
+title: "Sarthak's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
