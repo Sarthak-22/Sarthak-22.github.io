@@ -1,28 +1,24 @@
 ---
 layout: archive
+title : "Projects"
 permalink: /projects/
 author_profile: true
 ---
-
-
 
 ## 1. **Road Scene Completion with Geometry-Aware 3D Vehicle Placement** 
    * List item two
    * List item three
    * List item four
 
-
 ## 2. **Learning Projections from Single Photon Cameras (SPC) for Stereo Depth Estimation** 
   * List item two
   * List item three
   * List item four
 
-
 ## 3. **Unsupervised Low-Light Depth Estimation**
   * List item two
   * List item three
   * List item four
-
   
 ## 4. **Model Pruning: Lottery Ticket Hypothesis** 
   *	Trained a lightweight model M1 and Resnet18 on CIFAR-10 to perform model pruning experiments in PyTorch.
