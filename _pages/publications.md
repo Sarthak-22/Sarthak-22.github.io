@@ -11,11 +11,11 @@ _NeurIPS 2023 Diffusion Workshop Proceedings, **NeurIPS 2023**_ [[paper](https:/
 
 ### 2. Attribute Diffusion: Diffusion Driven Diverse Attribute Exploration in GANs
 Rishubh Parihar, Prasanna B, Raghav Magazine, **Sarthak Vora**, Tejan Karmali, Varun Jampani, Venkatesh Babu \
-_In Proceedings of the Winter Conference on Applications of Computer Vision, **WACV 2025**_ [[project page](https://rishubhpar.github.io/attributediffusion/)] [[paper](https://openaccess.thecvf.com/content/WACV2025/papers/Parihar_Attribute_Diffusion_Diffusion_Driven_Diverse_Attribute_Editing_WACV_2025_paper.pdf)]
+_In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, **WACV 2025**_ [[project page](https://rishubhpar.github.io/attributediffusion/)] [[paper](https://openaccess.thecvf.com/content/WACV2025/papers/Parihar_Attribute_Diffusion_Diffusion_Driven_Diverse_Attribute_Editing_WACV_2025_paper.pdf)]
 
 ### 3. MonoPlace3D: Learning 3D-Aware Object Placement for 3D Monocular Detection
 Rishubh Parihar, Srinjay S, **Sarthak Vora**, Jogendra Nath Kundu, Venkatesh Babu \
-_In Proceedings of the International Conference on Computer Vision and Pattern Recognition, **CVPR 2025** (Accepted!)_
+_In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2025** (Accepted!)_
 
 
 
