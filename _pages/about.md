@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year M.S. student in Electrical and Computer Engineering (ECE) at [University of California Los Angeles (UCLA)](https://www.ucla.edu/). I obtained my Bachelors degree in Electrical Engineering at the [Indian Institute of Technology (IIT) Madras](https://www.iitm.ac.in/) in India.
+<sup>Hello! I am Sarthak, a Master’s degree graduate in Electrical and Computer Engineering from UCLA. I completed my undergraduate studies in Electrical Engineering at the Indian Institute of Technology (IIT) Madras.</sup>
 
-My research interest broadly lie within the domain of **Computer Vision** and **Imaging**. The broad sub-topics which align with my experience are Generative methods, Diffusion Models, 3D Vision, Stereo Depth estimation and Image Segmentation. I am keen to explore the fields of domain adaptation, multi-modal learning, vision-language methods and designing intelligent systems for ADAS.
-
-Recently, I completed my Summer Internship at **Samsung Research America** (SRA) as a Computer Vision Intern, focusing on the topics of Effective Model Compression and Fast Image Enhancement using Mobile-Efficient Vision Transformers.
-
-In the past, I also pursued research at [Vision and AI Lab (VAL)](https://val.cds.iisc.ac.in/) wherein I focused on and published projects related to Generative AI and 3D scene synthesis. During my undergraduate, I had the opportunity to collaborate with [Prof. Kaushik Mitra](https://www.ee.iitm.ac.in/kmitra/) at the [Computational Imaging Lab](https://www.ee.iitm.ac.in/comp_photolab/) on problems based on Unsupervised Stereo Depth Estimation. I was also fortunate to have the opportunity to work with [Prof. Mohit Gupta](https://wisionlab.com/people/mohit-gupta/) on a specialized field of Single Photon Cameras (SPC) and its Application in Depth Estimation.
+<sup>My research interests broadly lie in the fields of Computer Vision and Generative AI. I have worked on topics such as Generative Adversarial Networks (GANs), Diffusion Models, 3D Vision, Semantic Segmentation, Object Detection, and Scene Understanding. More recently, I have been exploring emerging areas such as multi-modal learning, vision-language models, and autonomous systems.</sup>
 
 
-_**Actively looking for New Grad roles starting Spring 2025 in the areas of Machine Learning, Research Sciences, Applied Sciences and Software Engineering**_
+<sup>Previously, I interned at Samsung Research America (SRA) as a Computer Vision Intern, where I focused on optimizing mobile-efficient vision transformers and deploying lightweight models for edge devices.</sup>
+
+<sup>I pursed research at the Vision and AI Lab (VAL), IISc Bangalore, contributing to projects in Generative AI and 3D Scene Understanding. During my undergraduate studies, I worked with [Prof. Kaushik Mitra](https://www.ee.iitm.ac.in/kmitra/) on Unsupervised Depth Estimation and had the opportunity to collaborate with [Prof. Mohit Gupta](https://wisionlab.com/people/mohit-gupta/) to work on Single Photon Cameras (SPC) for low-light depth estimation.</sup>
+
+<sup>I thrive in the intersection of innovation and practical application. I am passionate about building scalable, real-world AI systems at the intersection of vision, learning, and efficiency.</sup>
+
+_**I am actively looking for New-Grad full-time opportunities in the areas of Applied Sciences, Research Sciences, Machine Learning, and related fields starting Spring 2025.**_
